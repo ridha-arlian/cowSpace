@@ -1,6 +1,6 @@
 "use client"
 
-import { PasswordInput } from "@/styles/components/ui/password-input"
+import { PasswordInput } from "../../../components/ui/password-input"
 import { Button, Checkbox, Field, Flex, Heading, HStack, Input, Link, Stack, Text } from "@chakra-ui/react"
 
 export function LoginForm () {

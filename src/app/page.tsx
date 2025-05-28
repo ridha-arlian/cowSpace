@@ -1,5 +1,5 @@
 import { Box } from '@chakra-ui/react'
-import { LandingPage } from './components/landingPage/landingPage'
+import { LandingPage } from './components/landing/LandingPage'
 
 export default function Home() {
   return (

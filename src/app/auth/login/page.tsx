@@ -1,8 +1,8 @@
 'use client'
 
 
-import { LoginForm } from '@/app/components/auth/loginForm'
-import { Navbar } from '@/app/components/navbar/navbar'
+import { LoginForm } from '../../components/auth/LoginForm'
+import { Navbar } from '../../components/navbar/Navbar'
 import { Stack } from '@chakra-ui/react'
 
 export default function LoginPage() {

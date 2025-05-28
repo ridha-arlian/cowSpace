@@ -1,6 +1,6 @@
 import { HStack } from '@chakra-ui/react'
-import { LeftContent } from './leftContent'
-import { RightContent } from './rightContent'
+import { LeftContent } from './LeftContent'
+import { RightContent } from './RightContent'
 
 export type MenuProps = Array<{
   label: string

@@ -1,7 +1,7 @@
 'use client'
 
 import { Button, Container, Flex, HStack } from '@chakra-ui/react'
-import { MenuProps } from './navbar'
+import { MenuProps } from './Navbar'
 import { useRouter } from 'next/navigation'
 
 type RightContentProps = {
